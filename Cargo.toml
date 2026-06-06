@@ -1,0 +1,7 @@
+[package]
+name = "construct-provenance"
+version = "0.1.0"
+edition = "2021"
+description = "Full provenance tracking for GPU constructs. Every compilation, deployment, and execution recorded in an append-only log. Query: what version produced this result?"
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/construct-provenance"
